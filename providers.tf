@@ -5,7 +5,7 @@ provider "google" {
 
 terraform {
   backend "gcs" {
-    bucket = "tf-cicdproject-medi"
+    bucket = "terarform-cicd-medi"
     prefix = "terraform/state"
   }
 } 
