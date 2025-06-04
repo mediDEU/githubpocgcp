@@ -1,4 +1,4 @@
 project_id = "my-project-2025-461912"
 region     = "europe-west3"
-tf_state_bucket = "terraform-cicd-medi"
+tf_state_bucket = "terarform-cicd-medi"
 infra_bucket = "medi-project-poc-infra"
